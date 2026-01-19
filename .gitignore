@@ -1,0 +1,9 @@
+# packwiz runtime
+/.packwiz-cache/
+
+# logs or temp files
+*.log
+
+# OS junk
+.DS_Store
+Thumbs.db

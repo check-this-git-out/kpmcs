@@ -1,0 +1,6 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/the-bumblezone-forge.pw.toml"
+hash = "60c66f9a04e16ac8b0274932af667045ce9802367406f1785ddab25c2feec2ea"
+metafile = true
