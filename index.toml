@@ -1907,21 +1907,6 @@ hash = "2d8aab62e51d84e33920e15cdd34fd164d971b01aede0c3d17abcd08117d33a9"
 metafile = true
 
 [[files]]
-file = "resourcepacks/fresh-animations-extensions.pw.toml"
-hash = "3742efd536b417560395d9aab9643e2a97c105a60fd7f37c9a825024c7479359"
-metafile = true
-
-[[files]]
-file = "resourcepacks/fresh-animations.pw.toml"
-hash = "72b919a0242253a1540a0fa424ea5a652787365186ac9f5fa5a67583bb5d368c"
-metafile = true
-
-[[files]]
-file = "resourcepacks/fresh-flowers-and-plants.pw.toml"
-hash = "fd0b6938c5e44a8fa08f1549d159cad9f517db640455188c40fe83fd6f2692ab"
-metafile = true
-
-[[files]]
 file = "resourcepacks/grays-mob-overhaul-x-fresh-animations.pw.toml"
 hash = "fa1a07ed69a5071a898a5ceb4c695acafc882531c322ec8514c1d38551b1395b"
 metafile = true
