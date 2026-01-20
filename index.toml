@@ -1932,11 +1932,6 @@ hash = "dd60106f5d76df4d2fedd5bd77edd681ef7224d924cfb30fac19240dcc17e4cf"
 metafile = true
 
 [[files]]
-file = "resourcepacks/lanostryjourney.pw.toml"
-hash = "132280d9f4b7ca1ab48d831c4827c1afedc66adade4d1e774674fc23161a75b1"
-metafile = true
-
-[[files]]
 file = "resourcepacks/lower-shield.pw.toml"
 hash = "233c2adfcee95b2c88799de5b21cb65c0749fd3ecc48cc33a2ec63c79d849f49"
 metafile = true
@@ -1954,11 +1949,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/overgrown-flowery-hotbar.pw.toml"
 hash = "e2b28289648a9702b8a70388c658b895263a195175930974f6b95173f9a1fd12"
-metafile = true
-
-[[files]]
-file = "resourcepacks/pack-png-panorama-with-shaders.pw.toml"
-hash = "ce39a9bae31a0fe805c73e43c32afda32db17f2be9cf746731b5a9fecffc741f"
 metafile = true
 
 [[files]]
