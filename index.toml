@@ -1892,11 +1892,6 @@ hash = "282c2cd8480e3a7d2c97baed1c36584eaa7b583c3f0db8ee4e26f2b439f07f4c"
 metafile = true
 
 [[files]]
-file = "resourcepacks/drodis-villagers-x-fresh-animations.pw.toml"
-hash = "48ff9e653702a9d308c64b1a4bef46c7653a8d92a895bd57314b32c62918c1e6"
-metafile = true
-
-[[files]]
 file = "resourcepacks/extra-flowery-gui.pw.toml"
 hash = "c10303617c1974212157c3fce8d1b786011eba2e40fd347b04c64b92e9c30915"
 metafile = true
